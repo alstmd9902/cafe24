@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 13px;
+  font-family: Arial, 'Apple SD Gothic Neo', 'Noto Sans Regular', '맑은 고딕',
+    'malgun gothic', '돋움', 'dotum', sans-serif;
+  color: #000;
+  color: var(--font-color-base);
+}
+
+ul,
+li {
+  list-style: none;
+}
