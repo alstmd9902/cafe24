@@ -36,7 +36,6 @@ function App() {
 
   return (
     <>
-    <h1>hello world</h1>
     {/* 해더 영역 */}
     <Header/>
 
